@@ -1,0 +1,4 @@
+下载后请执行加载包资源命令
+npm install  
+
+运行：npm run dev
